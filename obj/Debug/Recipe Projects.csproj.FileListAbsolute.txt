@@ -1,0 +1,14 @@
+C:\Users\aricm\source\repos\Recipe Projects\Recipe Projects\bin\Debug\Recipe Projects.exe.config
+C:\Users\aricm\source\repos\Recipe Projects\Recipe Projects\bin\Debug\Recipe Projects.exe
+C:\Users\aricm\source\repos\Recipe Projects\Recipe Projects\bin\Debug\Recipe Projects.pdb
+C:\Users\aricm\source\repos\Recipe Projects\Recipe Projects\obj\Debug\Recipe Projects.csprojAssemblyReference.cache
+C:\Users\aricm\source\repos\Recipe Projects\Recipe Projects\obj\Debug\MainWindow.g.cs
+C:\Users\aricm\source\repos\Recipe Projects\Recipe Projects\obj\Debug\App.g.cs
+C:\Users\aricm\source\repos\Recipe Projects\Recipe Projects\obj\Debug\Recipe Projects_MarkupCompile.cache
+C:\Users\aricm\source\repos\Recipe Projects\Recipe Projects\obj\Debug\Recipe Projects_MarkupCompile.lref
+C:\Users\aricm\source\repos\Recipe Projects\Recipe Projects\obj\Debug\MainWindow.baml
+C:\Users\aricm\source\repos\Recipe Projects\Recipe Projects\obj\Debug\Recipe Projects.g.resources
+C:\Users\aricm\source\repos\Recipe Projects\Recipe Projects\obj\Debug\Recipe_Projects.Properties.Resources.resources
+C:\Users\aricm\source\repos\Recipe Projects\Recipe Projects\obj\Debug\Recipe Projects.csproj.GenerateResource.cache
+C:\Users\aricm\source\repos\Recipe Projects\Recipe Projects\obj\Debug\Recipe Projects.exe
+C:\Users\aricm\source\repos\Recipe Projects\Recipe Projects\obj\Debug\Recipe Projects.pdb
